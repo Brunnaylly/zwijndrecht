@@ -1,0 +1,218 @@
+@media (min-width: 300px) {
+body{
+  background: linear-gradient(to right, rgb(253, 253, 253), rgb(106, 155, 106));
+  height: 2000px;
+}
+header{
+  width: 101%;  
+  background-image: url(../Afbeeldingen/stadsbrug.jpg);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-size: cover;
+  border: 2px solid rgb(62,149,96);
+  margin-block-end: 0%;
+  margin: -1%;
+}
+#inhoudeen{
+  width: 34%;
+  background: linear-gradient(#0854ab, #61c62b);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+  float: left;
+  margin-left: 0%;
+}
+img{
+  float: right;
+  width: 190px;
+  height: 130px;
+  border-radius: 50px;
+  border: 2px solid #0d0558;
+}
+#inhoudtwee{
+background: linear-gradient(to right, #653a84, #0d0275);
+width: 60%;
+height: auto;
+border: 2px solid rgb(62, 149, 96);
+padding: 1%;
+border-radius: 5px;
+margin-bottom: 1%;
+float: right;
+}
+#inhouddrie{
+  width: 97.7%;
+  background: linear-gradient(to right, #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  vertical-align: top;
+  margin-bottom: 1%;
+  margin-right: 1%;
+}
+#inhoudvier{
+  width: 97.7%;
+  background: linear-gradient(to right, #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1%;
+  margin-bottom: 1%;
+}
+#inhoudvijf{
+  width: 97.7%;
+  background: linear-gradient(to right, #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  vertical-align: top;
+  margin-right: 1%;
+  margin-bottom: 1%;
+}
+#inhoudzes{
+  width: 97.7%;
+  background-color: #07a2ad;
+  background: linear-gradient(to right, #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+#inhoudzeven{
+  width: 97.7%;
+  background: linear-gradient(to right, #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;;
+}
+#inhoudacht{
+  width: 34%;
+  background-image: none;
+  background: linear-gradient(#61c62b,#0854ab);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-left: 1%;
+  float: left;
+  margin-left: 0%;
+}
+#inhoudnegen{
+  width: 97.5%;
+  background: linear-gradient(to right,  #07a2ad, #0a0066);
+  display: inline-block;
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+}
+#inhoudtien{
+  width: 97.7%;
+  background: linear-gradient(to right,  #07a2ad, #0a0066);
+  display: inline-block;
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+}
+#inhoudelf{
+  width: 97.7%;
+  background: linear-gradient(to right,  #07a2ad, #0a0066);
+  display: inline-block;
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+}
+#inhoudtwalf{
+  width: 97.7%;
+  background: linear-gradient(to right,  #07a2ad, #0a0066);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  float: right;
+}
+#inhouddertien{
+  width: 60%;
+  background-image: none;
+  background: linear-gradient(to right, #0d0275, #653a84);
+  border-radius: 5px;
+  border: 2px solid rgb(62, 149, 96);
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  float: right;
+  margin-bottom: 1%;
+}
+h1{
+  color: #3b6ab0;
+  font-family: 'Abril Fatface', serif;
+  padding-left: 10%;
+  padding-top: 0%;
+  background: linear-gradient(to right, #0d0558, #07a2ad);
+}
+h2{
+  color: #ac0202;
+}
+
+  h2{
+    color: #000000;
+  }
+  p{
+    color:#000000
+  }
+  #inhoudeen {
+    display: flex;
+    flex-wrap: wrap;
+  }
+p{
+  color: rgb(0, 0, 0);
+  font-family: Times, "Times New Roman", Georgia, serif;
+}
+footer{
+  width: 100%;
+  min-height: 50px;
+  padding: 10px;
+  display: flex;
+  background: linear-gradient( #410274, #07a2ad, #0d0275);
+  margin-left: -10px;
+}
+}
